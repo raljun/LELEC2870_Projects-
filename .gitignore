@@ -1,0 +1,41 @@
+# =========================
+# Python / Jupyter
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments / Conda
+.venv/
+venv/
+env/
+ENV/
+conda-env/
+*.conda
+*.env
+
+# =========================
+# OS files (Windows/macOS)
+# =========================
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# =========================
+# IDEs
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# Logs
+# =========================
+*.log
